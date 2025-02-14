@@ -1,3 +1,5 @@
+#docker pull minio/minio:RELEASE.2020-08-08T04-50-06Z-arm64
+#docker pull nacos/nacos-server:v2.4.0.1
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
@@ -16,10 +18,11 @@
 
 #--platform linux/aarch64 debian:jessie
 #--platform linux/aarch64 minio/minio:RELEASE.2024-11-07T00-52-20Z
-#--platform linux/aarch64 minio/minio:RELEASE.2020-08-08T04-50-06Z
 #--platform linux/aarch64 rabbitmq:3.7.7
 #--platform linux/aarch64 redis:6.0.6
-#--platform linux/aarch64 mysql:8.0.21
-#--platform linux/aarch64 nacos/nacos-server:2.4.0.1
---platform linux/aarch64 nginx:1.21.5
+#--platform linux/aarch64 nginx:1.21.5
+
+--platform linux/aarch64 nacos/nacos-server:v2.4.0.1
+--platform linux/aarch64 minio/minio:RELEASE.2020-08-08T04-50-06Z-arm64
+--platform linux/aarch64 mysql:8.0.29
 
