@@ -15,5 +15,11 @@
 #neo4j:5.26.0-community-bullseye
 
 #--platform linux/aarch64 debian:jessie
---platform linux/aarch64 minio/minio:RELEASE.2024-11-07T00-52-20Z
+#--platform linux/aarch64 minio/minio:RELEASE.2024-11-07T00-52-20Z
+--platform linux/aarch64 minio/minio:RELEASE.2020-08-08T04-50-06Z
+--platform linux/aarch64 rabbitmq:3.7.7
+--platform linux/aarch64 redis:6.0.6
+--platform linux/aarch64 mysql:8.0.21
+--platform linux/aarch64 nacos/nacos-server:2.4.0.1
+--platform linux/aarch64 nginx:1.21.5
 
