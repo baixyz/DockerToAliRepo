@@ -20,6 +20,6 @@
 #--platform linux/aarch64 rabbitmq:3.7.7
 #--platform linux/aarch64 redis:6.0.6
 #--platform linux/aarch64 mysql:8.0.21
---platform linux/aarch64 nacos/nacos-server:2.4.0.1
+#--platform linux/aarch64 nacos/nacos-server:2.4.0.1
 --platform linux/aarch64 nginx:1.21.5
 
