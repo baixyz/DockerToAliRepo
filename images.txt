@@ -28,4 +28,6 @@
 #--platform linux/aarch64 nginx:1.27.1
 #--platform linux/aarch64 rabbitmq
 #--platform linux/aarch64 nacos/nacos-server:v2.5.0
---platform linux/aarch64 python:3.12-slim
+#--platform linux/aarch64 python:3.12-slim
+--platform linux/aarch64 debian:bullseye
+--platform linux/aarch64 openjdk:8-jdk-alpine
