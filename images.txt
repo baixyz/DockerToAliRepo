@@ -26,4 +26,5 @@
 #--platform linux/aarch64 minio/minio:RELEASE.2020-08-08T04-50-06Z-arm64
 #--platform linux/aarch64 mysql:8.0.29
 #--platform linux/aarch64 nginx:1.27.1
---platform linux/aarch64 rabbitmq
+#--platform linux/aarch64 rabbitmq
+--platform linux/aarch64 nacos/nacos-server:v2.4.1
