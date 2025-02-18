@@ -27,4 +27,4 @@
 #--platform linux/aarch64 mysql:8.0.29
 #--platform linux/aarch64 nginx:1.27.1
 #--platform linux/aarch64 rabbitmq
---platform linux/aarch64 nacos/nacos-server:v2.4.2
+--platform linux/aarch64 nacos/nacos-server:v2.5.0
