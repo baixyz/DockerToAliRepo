@@ -32,5 +32,6 @@
 #--platform linux/aarch64 debian:bullseye
 #--platform linux/aarch64 openjdk:8-jdk-alpine
 #--platform linux/aarch64 openeuler/openeuler:20.03-lts
---platform linux/aarch64 enmotech/opengauss:5.0.0
+#--platform linux/aarch64 enmotech/opengauss:5.0.0
+--platform linux/aarch64 debian:buster
 
