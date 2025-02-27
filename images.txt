@@ -35,4 +35,5 @@
 #--platform linux/aarch64 enmotech/opengauss:5.0.0
 #--platform linux/aarch64 debian:buster
 #hagb/docker-easyconnect:cli
+
 enmotech/opengauss:5.0.0
