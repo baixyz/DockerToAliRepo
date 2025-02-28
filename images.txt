@@ -39,4 +39,6 @@
 #enmotech/opengauss:5.0.0
 
 #openeuler/openeuler:22.03-lts
-openjdk:11
+#openjdk:11openjdk:11
+enmotech/opengauss:5.1.0
+
