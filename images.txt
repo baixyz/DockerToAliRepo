@@ -40,5 +40,6 @@
 
 #openeuler/openeuler:22.03-lts
 #openjdk:11openjdk:11
-enmotech/opengauss:5.1.0
+#enmotech/opengauss:5.1.0
+openjdk:23-jdk-bullseye
 
