@@ -41,5 +41,13 @@
 #openeuler/openeuler:22.03-lts
 #openjdk:11openjdk:11
 #enmotech/opengauss:5.1.0
-openjdk:23-jdk-bullseye
+#openjdk:23-jdk-bullseye
+
+taigaio/taiga-back:latest
+postgres:12.3
+rabbitmq:3.8-management-alpine
+taigaio/taiga-front:latest
+taigaio/taiga-events:latest
+nginx:1.19-alpine
+taigaio/taiga-protected:latest
 
