@@ -51,7 +51,9 @@
 #nginx:1.19-alpine
 #taigaio/taiga-protected:latest
 
---platform linux/aarch64 enmotech/opengauss:6.0.0
+#--platform linux/aarch64 enmotech/opengauss:6.0.0
+
+enmotech/opengauss:6.0.0
 
 
 
