@@ -53,7 +53,9 @@
 
 #--platform linux/aarch64 enmotech/opengauss:6.0.0
 
-enmotech/opengauss:6.0.0
+#enmotech/opengauss:6.0.0
+
+ubuntu:22.04
 
 
 
