@@ -55,7 +55,9 @@
 
 #enmotech/opengauss:6.0.0
 
-ubuntu:22.04
+#ubuntu:22.04
+
+python:3.12-slim
 
 
 
