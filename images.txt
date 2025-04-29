@@ -58,7 +58,8 @@
 
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #myscale/myscaledb:1.6.4
-nginx:latest
+#nginx:latest
+openeuler/openeuler:22.03-lts-sp4
 
 
 
