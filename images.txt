@@ -60,7 +60,7 @@
 #myscale/myscaledb:1.6.4
 #nginx:latest
 #openeuler/openeuler:22.03-lts-sp4
-sophgo/tpuc_dev:latest
-
+#sophgo/tpuc_dev:latest
+apache/iotdb:2.0.4-standalone
 
 
