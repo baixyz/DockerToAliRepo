@@ -61,6 +61,7 @@
 #nginx:latest
 #openeuler/openeuler:22.03-lts-sp4
 #sophgo/tpuc_dev:latest
-apache/iotdb:2.0.4-standalone
-
+#apache/iotdb:2.0.4-standalone
+breeze2/mha4mysql-node:0.57
+breeze2/mha4mysql-manager:0.57
 
