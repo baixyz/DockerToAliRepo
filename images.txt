@@ -62,6 +62,7 @@
 #openeuler/openeuler:22.03-lts-sp4
 #sophgo/tpuc_dev:latest
 #apache/iotdb:2.0.4-standalone
-breeze2/mha4mysql-node:0.57
-breeze2/mha4mysql-manager:0.57
+#breeze2/mha4mysql-node:0.57
+#breeze2/mha4mysql-manager:0.57
+nacos/nacos-server:v2.5.1
 
