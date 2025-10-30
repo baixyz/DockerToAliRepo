@@ -76,5 +76,6 @@ pingcap/tidb-vision:latest
 pingcap/tikv:latest
 pingcap/tispark:v2.1.1
 prom/prometheus:v2.2.1
-prom/pushgateway:v0.3.1
+#prom/pushgateway:v0.3.1
 
+prom/prometheus:latest
