@@ -69,13 +69,15 @@
 #python:3.12-slim
 #linuxserver/fail2ban:1.1.0
 
-grafana/grafana:6.0.1
-pingcap/pd:latest
-pingcap/tidb:latest
-pingcap/tidb-vision:latest
-pingcap/tikv:latest
-pingcap/tispark:v2.1.1
+#grafana/grafana:6.0.1
+#pingcap/pd:latest
+#pingcap/tidb:latest
+#pingcap/tidb-vision:latest
+#pingcap/tikv:latest
+#pingcap/tispark:v2.1.1
 #prom/prometheus:v2.2.1
-prom/pushgateway:latest
+#prom/pushgateway:latest
 
-prom/prometheus:latest
+#prom/prometheus:latest
+
+pingcap/dm:latest
