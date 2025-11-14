@@ -80,4 +80,5 @@
 
 #prom/prometheus:latest
 
-pingcap/dm:latest
+#pingcap/dm:latest
+--platform linux/aarch64 redis:latest
