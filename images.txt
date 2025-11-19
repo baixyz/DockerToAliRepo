@@ -82,4 +82,4 @@
 
 #pingcap/dm:latest
 #--platform linux/aarch64 redis:latest
---platform linux/aarch64 openjdk:23-jdk-bullseye
+--platform linux/aarch64 openjdk:22
