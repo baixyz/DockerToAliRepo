@@ -84,4 +84,5 @@
 #--platform linux/aarch64 redis:latest
 #--platform linux/aarch64 openjdk:22-jdk
 #--platform linux/aarch64 mysql:8.0.29
-pryorda/vmware_exporter:v0.18.4
+#pryorda/vmware_exporter:v0.18.4
+verdaccio/verdaccio:nightly-master
